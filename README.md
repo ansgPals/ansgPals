@@ -1,19 +1,7 @@
-<div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Frontend&nbsp;Developer&desc=Hyemin's&nbsp;Github&nbsp;Profile&fontAlignY=45)
+<div align="left"> 
   
-# Welcome to my github profile 👋 <br/>
-프론트엔드 개발자 문혜민입니다.
-<br/>
-<br/>
+### Skill
 
-
-
-<div> 
-  
-# Skill
- 
- <br/>
  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">  
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">  
@@ -27,9 +15,7 @@
 <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 <br/>
 
-## Communication
-
-<br/>
+### Communication
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
